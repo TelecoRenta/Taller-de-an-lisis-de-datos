@@ -49,8 +49,8 @@ This workshop has been created by the Opportunistic Architectures Lab of [IMDEA 
 If you have any questions, feedback, or inquiries about the content on this repository, please feel free to reach out to our team using the following email addresses:
 
 
-- For technical inquiries: [rita.ingabire@imdea.org](mailto:rita.ingabire@imdea.org)
-- For technical inquiries: [antonio.bazco@imdea.org](mailto:antonio.bazco@imdea.org)
+- [rita.ingabire@imdea.org](mailto:rita.ingabire@imdea.org)
+- [antonio.bazco@imdea.org](mailto:antonio.bazco@imdea.org)
 
 
 
